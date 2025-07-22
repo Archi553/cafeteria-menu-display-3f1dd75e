@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Food-themed custom colors
+				orange: {
+					DEFAULT: 'hsl(var(--orange))',
+					light: 'hsl(var(--orange-light))'
+				},
+				green: {
+					DEFAULT: 'hsl(var(--green))',
+					light: 'hsl(var(--green-light))'
+				},
+				brown: 'hsl(var(--brown))',
+				cream: 'hsl(var(--cream))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
